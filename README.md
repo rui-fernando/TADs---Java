@@ -1,52 +1,52 @@
 # TADs---Java
 # Projeto: Implementação de TADs em Java
 
-## 📚 Descrição
+## Descrição
 
 Este projeto consiste na implementação de diversos Tipos Abstratos de Dados (TADs) utilizando a linguagem Java.  
 Foram implementadas versões utilizando tanto arrays quanto listas encadeadas, conforme o roteiro proposto na disciplina.
 
-## 👨‍💻 Autor
+## Autor
 
 - **Nome:** Rui Fernando  
 - **Matrícula:** 2023208510001  
 
-## 📝 Estrutura do Projeto
+## Estrutura do Projeto
 
-### ✔️ TAD Conjunto Dinâmico
+### TAD Conjunto Dinâmico
 
-- `MeuConjuntoDinamico` → implementação utilizando arrays.
-- `MeuConjuntoDinamicoEncadeado` → implementação utilizando lista encadeada.
+- MeuConjuntoDinamico → implementação utilizando arrays.
+- MeuConjuntoDinamicoEncadeado → implementação utilizando lista encadeada.
 
-### ✔️ TAD Fila
+### TAD Fila
 
-- `MinhaFila` → implementação utilizando arrays.
-- `MinhaFilaEncadeada` → implementação utilizando lista encadeada.
+- MinhaFila → implementação utilizando arrays.
+- MinhaFilaEncadeada → implementação utilizando lista encadeada.
 
-### ✔️ TAD Listas Encadeadas
+### TAD Listas Encadeadas
 
-- `ListaEncadeadaImpl` → lista encadeada simples.
-- `ListaDuplamenteEncadeadaImpl` → lista encadeada dupla.
+- ListaEncadeadaImpl → lista encadeada simples.
+- ListaDuplamenteEncadeadaImpl → lista encadeada dupla.
 
-### ✔️ TAD Pilha
+### TAD Pilha
 
-- `MinhaPilha` → implementação utilizando arrays.
-- `MinhaPilhaEncadeada` → implementação utilizando lista encadeada.
+- MinhaPilha → implementação utilizando arrays.
+- MinhaPilhaEncadeada → implementação utilizando lista encadeada.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo deste projeto é aprofundar a compreensão sobre:
 
 - Estruturas de dados dinâmicas.
 - Manipulação de arrays e listas encadeadas.
-- Implementação de operações fundamentais (inserção, remoção, busca).
+- Implementação de operações fundamentais (inserção, remoção, busca, etc).
 - Organização de código orientado a objetos.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - Eclipse IDE
@@ -54,7 +54,7 @@ O objetivo deste projeto é aprofundar a compreensão sobre:
 
 ---
 
-## 🏁 Como Executar
+## Como Executar
 
 1. Clone o repositório:
    ```bash
