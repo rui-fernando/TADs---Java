@@ -9,7 +9,7 @@ Foram implementadas versões utilizando tanto arrays quanto listas encadeadas, c
 ## 👨‍💻 Autor
 
 - **Nome:** Rui Fernando  
-- **Matrícula:** 662607  
+- **Matrícula:** 2023208510001  
 
 ## 📝 Estrutura do Projeto
 
